@@ -9,6 +9,7 @@ namespace demo_sort
         ListBox listCode;
         Form1 parent;
         Label iLabel, jLabel, j_Label;
+		
         public BubbleSort(Form1 f1, ListBox listCode)
         {
             this.parent = f1;
